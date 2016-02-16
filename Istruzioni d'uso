@@ -6,4 +6,6 @@
 6)Digitare: git config --global user.name "DavideSegullo"
 7)Digitare: git config --global user.email "davidesegullo@gmail.com"
 8)Digitare: git pull https://github.com/DavideSegullo/B19.git
-
+9)con un editor scrivere un file prova.txt con all'interno qualcosa e salvare(nano prova.txt)
+10)comando: git add prova.txt
+11)comando: git 
