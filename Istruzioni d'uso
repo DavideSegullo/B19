@@ -1,3 +1,5 @@
+ISTRUZIONI D'USO PER GITHUB E GIT
+
 1)Registrazione nel sito github
 2)installazione di git
 3)aprire il terminale
@@ -9,3 +11,4 @@
 9)con un editor scrivere un file prova.txt con all'interno qualcosa e salvare(nano prova.txt)
 10)comando: git add prova.txt
 11)comando: git commit -m "aggiunto il file"
+12)la repository web github adesso contiene anche il nuovo file prova.txt
