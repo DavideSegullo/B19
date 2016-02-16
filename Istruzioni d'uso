@@ -1,3 +1,8 @@
-1)Creare una cartella
-2)Entrare al suo interno e digitare "git init"(il comando serve ad inizializzare un repository Git nella cartella)
-3)
+1)Registrazione nel sito github
+2)installazione di git
+3)aprire il terminale
+4)Creare una cartella personale
+5)Entrare al suo interno e digitare "git init"(il comando serve ad inizializzare un repository Git nella cartella)
+6)Digitare git config --global user.name "DavideSegullo"
+7)Digitare git config --global user.email "davidesegullo@gmail.com"
+
