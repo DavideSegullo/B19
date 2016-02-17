@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1455745687 source:c:\users\davsim\desktop\scuola\informatica\c++ scuola\alberobinario\main.cpp
+	<iostream>
+	<stdlib.h>
+
